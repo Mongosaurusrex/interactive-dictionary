@@ -1,6 +1,6 @@
 # interactive-dictionary
 
-This project is the first project that I did in python, mainly trying out the basic and core concepts of the language.
+This project is the first project that I did in python, mainly trying out the basic and core concepts of the language and the power of the difflib library.
 
 The program is a tiny shell of what a search engine could be. With functionality of:
 
@@ -14,4 +14,4 @@ a program with a GUI/website that support searching in a database and presenting
 The program is easily started with:
 python app.py (or if you have multiple python distributions installed python3 app.py)
 
-The program is written in python 3.6.2
+The program is written in python 3.6.2 and is d
