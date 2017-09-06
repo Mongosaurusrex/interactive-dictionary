@@ -2,10 +2,10 @@
 
 This project is the first project that I did in python, mainly trying out the basic and core concepts of the language and the power of the difflib library.
 
-The program is a tiny shell of what a search engine could be. With functionality of:
+The program is a tiny shell of what a search engine could be. With a functionality of:
 
 ```bash
-- Presenting a definition of a word from a jsop "database"
+- Presenting a definition of a word from a json "database"
 - Suggesting a word if the exact definition doesn't exist
 - Printing out error messages if faults are made or if the word doesn't have a definition
 ```
@@ -20,4 +20,4 @@ The program is easily started with:
 python app.py (or if you have multiple python distributions installed python3 app.py)
 ```
 
-The program is written in python 3.6.2 and is d
+The program is written in python 3.6.2
